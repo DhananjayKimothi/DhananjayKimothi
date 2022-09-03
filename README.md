@@ -16,7 +16,7 @@ Dhananjay Kimothi, Ph.D. is a Data Scientist, Researcher and ex-Lecturer.
 
 ##  **Learn Python and GCP:**
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&style=social&logo=python&logoColor=white)](https://www.youtube.com/playlist?list=PLIrnEg4RK1mgVIeZOQLvaVu-EOWk5zq78)
-[(https://img.shields.io/badge/GCP-google%20cloud%20platform-yellow)](https://www.youtube.com/playlist?list=PLIrnEg4RK1mgVIeZOQLvaVu-EOWk5zq78)
+[![GCP](https://img.shields.io/badge/GCP-google%20cloud%20platform-yellow)](https://www.youtube.com/playlist?list=PLIrnEg4RK1mgVIeZOQLvaVu-EOWk5zq78)
 
 ## **Connect with me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhananjay-kimothi/)
