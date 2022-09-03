@@ -15,8 +15,8 @@ Dhananjay Kimothi, Ph.D. is a Data Scientist, Researcher and ex-Lecturer.
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&style=social&logo=github&logoColor=white)](https://github.com/DhananjayKimothi/)
 
 ##  **Learn Python and GCP:**
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&style=social&logo=python&logoColor=white)]https://www.youtube.com/playlist?list=PLIrnEg4RK1mgVIeZOQLvaVu-EOWk5zq78)
-[![GCP](https://img.shields.io/badge/R-276DC3?style=for-the-badge&style=social&logo=r&logoColor=white)](https://www.youtube.com/playlist?list=PLIrnEg4RK1mgVIeZOQLvaVu-EOWk5zq78)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&style=social&logo=python&logoColor=white)](https://www.youtube.com/playlist?list=PLIrnEg4RK1mgVIeZOQLvaVu-EOWk5zq78)
+[(https://img.shields.io/badge/GCP-google%20cloud%20platform-yellow)](https://www.youtube.com/playlist?list=PLIrnEg4RK1mgVIeZOQLvaVu-EOWk5zq78)
 
 ## **Connect with me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhananjay-kimothi/)
