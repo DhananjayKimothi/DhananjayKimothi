@@ -6,9 +6,6 @@
 
 Dhananjay Kimothi, Ph.D. is a Data Scientist, Researcher and ex-Lecturer. 
 
-## **Support my work:**
-[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee--yellow.svg?logo=buy-me-a-coffee&logoColor=orange&style=social)](https://www.buymeacoffee.com/dataprofessor)
-
 ## **Learn Data Science by investing time here**
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCV8e2g4IWQqK71bbzGDEI4Q?style=social)](https://www.youtube.com/channel/UCOExhxZ87B_uJy-MdarjZyw/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&style=social)](https://medium.com/@dKimothi)
